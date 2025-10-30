@@ -1,2 +1,2 @@
-# Bubblesort-Algorithm-in-C
-Sorting arrays with C using BubbleSort_Algorithm
+# Sorting arrays with C using Algorithm
+Sorting arrays with C using BubbleSort, Linear_Search, Binary_Search and mor
